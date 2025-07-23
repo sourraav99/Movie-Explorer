@@ -43,14 +43,14 @@ A beautiful and functional React Native app that displays a list of popular movi
 | `react-native-linear-gradient` | Stylish gradients |
 | `react-native-shimmer-placeholder` | Loading shimmer effect |
 | `react-native-vector-icons` | UI icons |
-| `react-native-system-navigation-bar` | Android nav bar color con
+| `react-native-system-navigation-bar` | Android nav bar color configuration
 
 
 
 ## 📥 Getting Started
 
 ### Step 1: Clone the repository
-git clone https://github.com/your-username/react-native-movie-app.git
+git clone https://github.com/sourraav99/Movie-Explorer.git
 cd react-native-movie-app
 
 Step 2: Install dependencies
