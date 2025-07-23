@@ -2,6 +2,7 @@
 
 A beautiful and functional React Native app that displays a list of popular movies using TMDB API. Built with Redux, navigation, and persistent local storage for seamless user experience.
 
+Download apk from here: https://github.com/sourraav99/Movie-Explorer/releases/tag/publishes
 ---
 
 ## 🚀 Features
